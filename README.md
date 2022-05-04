@@ -15,6 +15,7 @@ Flow:
 3. check counterSlice.js then,
 4. check counterActions.js then,
 5. go to pages folder and check index.js there,
+6. oh and check the \_app.js
 
 # Next.js
 
