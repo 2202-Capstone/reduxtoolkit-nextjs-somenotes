@@ -1,7 +1,7 @@
 import React from "react";
 import { useRouter } from "next/router";
 
-// !!READ!! if u came here first i recommend u go to the index.js file of this directory first and then the [id].js
+// !!READ!! if u came here first i recommend u go back to the index.js file of this directory first and then the [id].js
 
 //try going to /more-routes/hello/hi/blabla/random then check out ur console log. cool ey?
 

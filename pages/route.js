@@ -12,10 +12,11 @@ export default function RoutePage() {
         could
         <br />
         be routed to [website-name/name-of-file] like this file right now. It is
-        accessed in the /route link,, pretty cool huh
+        accessed in the /route link (look at ur link now),, pretty cool huh
+        <br />
         <br />
         if you name ur file index.js directly in the pages directory then that
-        would just route to --&gt; /
+        would just route to --&gt; / -- which had our counter application.
       </Text>
       <Button mt={8}>
         <Link href="/more-routes">But wait there is more...</Link>

@@ -1,4 +1,4 @@
-// !!READ!! if u came here FIRST i recommend u go to the index.js file of this directory first
+// !!READ!! if u came here FIRST i recommend u go back to the index.js file of this directory first
 import React from "react";
 import { Heading } from "@chakra-ui/react";
 import { useRouter } from "next/router";
