@@ -2,6 +2,8 @@ Sup this is Franz and here i made u guys sum notes on reduxjs/toolkit and next.j
 
 ### FIRST: do an NPM RUN DEV to start local server and go explore stuff
 
+### SECOND: explore the stuff in the files themselves
+
 # Reduxjs toolkit
 
 You dont have to follow but yeh i recommend it
